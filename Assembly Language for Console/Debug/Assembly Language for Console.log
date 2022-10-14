@@ -1,0 +1,5 @@
+﻿  Assembling source.asm...
+source.asm(20): warning A4011: multiple .MODEL directives found : .MODEL ignored
+source.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:WinMain”不兼容；已忽略
+LINK : error LNK2001: 无法解析的外部符号 _WinMain
+C:\Users\20613\Desktop\Assembly Language for Console\Debug\Assembly Language for Console.exe : fatal error LNK1120: 1 个无法解析的外部命令
